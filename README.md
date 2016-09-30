@@ -1,4 +1,4 @@
-plugin-magento
+Magento LiqPay
 =============
 
 LiqPay plugin for magento CMS
@@ -16,6 +16,5 @@ Tested for Magento version:
 
 #### Для установки модуля Liqpay:
 добавить содержимое каталога /app в соответствующий каталог Magento.
-Более детально http://magebox.ru/extensions-setup/
 
 
